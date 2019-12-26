@@ -27,13 +27,13 @@
 - R Shiny로 Webapp 구현
 
 2) NN_KF_RTA.py, ME_KF_RTA.py
-- 네이버 및 환경부 보도자료 키워드 빈도수 분석 수행
+- 키워드 빈도수 분석 수행
 
 3) KGF_RTA.py
-- 네이버 및 환경부 보도자료 키워드 그룹 빈도수 분석 수행
+- 키워드 그룹 빈도수 분석 수행
 
 4) RTA_AA.R
-- 네이버 및 환경부 보도자료 키워드 네트워크 구성을 위한 연관분석 수행
+- 키워드 네트워크 구성을 위한 연관분석 수행
 
 5) NN_DBSCAN_RTA.py, ME_DBSCAN_RTA.py
 - DBSCAN + TEXTRANK 문서요약 알고리즘 수행
