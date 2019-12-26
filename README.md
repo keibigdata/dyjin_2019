@@ -46,3 +46,13 @@
 
 8) crontab.jpg
 - 리눅스에서 자동실행을 위한 시간 지정
+
+## 5_중국대기질_크롤링
+1) china_air_quality_crawler.ipynb
+- 중국 대기질 크롤링 소스코드 (https://www.aqistudy.cn/historydata/)
+
+## 6. 기타
+1) 키워드_기반_이미지_크롤링.ipynb
+- 키워드_기반_이미지_크롤링
+
+
